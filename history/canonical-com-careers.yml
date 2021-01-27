@@ -1,7 +1,7 @@
 url: https://canonical.com/careers
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2021-01-26T23:24:55.359Z
+status: down
+code: 503
+responseTime: 45
+lastUpdated: 2021-01-27T21:58:27.239Z
 startTime: Thu Jan 07 2021 11:59:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
