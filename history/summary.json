@@ -183,17 +183,17 @@
     "url": "https://maas.io/docs",
     "icon": "https://favicons.githubusercontent.com/maas.io",
     "slug": "maas-io-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3981,
-    "timeDay": 799,
-    "timeWeek": 2909,
-    "timeMonth": 3552,
-    "timeYear": 3981,
+    "time": 3990,
+    "timeDay": 2107,
+    "timeWeek": 3111,
+    "timeMonth": 3591,
+    "timeYear": 3990,
     "dailyMinutesDown": {
       "2021-01-19": 37
     }
